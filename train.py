@@ -1,4 +1,8 @@
+#in-server
 #env -->/data/venkateswara_lab/miniconda3_new/envs/interpol
+#code directory --> /data/venkateswara_lab/frame_interpollation/code
+#models directory --> /data/venkateswara_lab/frame_interpollation/trained_models_full
+
 
 import logging
 import math
